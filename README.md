@@ -1,0 +1,2 @@
+# tamales
+Tamales for Minetest.
